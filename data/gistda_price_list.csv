@@ -1,0 +1,42 @@
+﻿category,satellite,resolution,archive_price,tasking_price,unit,note,source_page
+รายละเอียดภาพ 30–50 ซม.,Pléiades NEO,30 cm,880.0,1270.0,บาท/ตร.กม.,ข้อมูลในคลัง,1
+รายละเอียดภาพ 30–50 ซม.,WorldView-4,30 cm,920.0,1560.0,บาท/ตร.กม.,ข้อมูลในคลัง,1
+รายละเอียดภาพ 30–50 ซม.,SuperView-2,42 cm,700.0,1100.0,บาท/ตร.กม.,ข้อมูลในคลัง,1
+รายละเอียดภาพ 30–50 ซม.,WorldView-1,50 cm,700.0,1100.0,บาท/ตร.กม.,ข้อมูลในคลัง,1
+รายละเอียดภาพ 30–50 ซม.,WorldView-2,50 cm,700.0,1100.0,บาท/ตร.กม.,ข้อมูลในคลัง,1
+รายละเอียดภาพ 30–50 ซม.,WorldView-3,50 cm,700.0,1100.0,บาท/ตร.กม.,ข้อมูลในคลัง,1
+รายละเอียดภาพ 30–50 ซม.,GeoEye-1,50 cm,700.0,1100.0,บาท/ตร.กม.,ข้อมูลในคลัง,1
+รายละเอียดภาพ 30–50 ซม.,Pléiades,50 cm,490.0,830.0,บาท/ตร.กม.,ข้อมูลในคลัง,1
+รายละเอียดภาพ 30–50 ซม.,EarthScanner,50 cm,400.0,800.0,บาท/ตร.กม.,ข้อมูลในคลัง,1
+รายละเอียดภาพ 30–50 ซม.,SuperView-1,50 cm,500.0,900.0,บาท/ตร.กม.,ข้อมูลในคลัง,1
+รายละเอียดภาพ 30–50 ซม.,KOMPSAT-3,50 cm,400.0,700.0,บาท/ตร.กม.,ข้อมูลในคลัง,1
+รายละเอียดภาพ 30–50 ซม.,SKYSAT,50 cm,300.0,560.0,บาท/ตร.กม.,ข้อมูลในคลัง,1
+รายละเอียดภาพ 60 ซม.–2 ม.,Video Constellation,1 m,142500.0,285000.0,บาท/30 วินาที,ภาพวิดีโอและภาพกลางคืน,2
+รายละเอียดภาพ 60 ซม.–2 ม.,Night Imaging,1 m,800.0,1400.0,บาท/ตร.กม.,ภาพกลางคืน,2
+รายละเอียดภาพ 60 ซม.–2 ม.,QuickBird,60 cm,700.0,,บาท/ตร.กม.,ข้อมูลชนิดสั่งถ่ายไม่พร้อม,2
+รายละเอียดภาพ 60 ซม.–2 ม.,GaoFen-7,65 cm,400.0,700.0,บาท/ตร.กม.,ข้อมูลในคลัง,2
+รายละเอียดภาพ 60 ซม.–2 ม.,Jilin,75 cm,300.0,600.0,บาท/ตร.กม.,ข้อมูลในคลัง,2
+รายละเอียดภาพ 60 ซม.–2 ม.,DailyVision,75 cm,300.0,600.0,บาท/ตร.กม.,ข้อมูลในคลัง,2
+รายละเอียดภาพ 60 ซม.–2 ม.,GaoFen-2,80 cm,300.0,400.0,บาท/ตร.กม.,ข้อมูลในคลัง,2
+รายละเอียดภาพ 60 ซม.–2 ม.,IKONOS,1 m,400.0,,บาท/ตร.กม.,ข้อมูลชนิดสั่งถ่ายไม่พร้อม,2
+รายละเอียดภาพ 60 ซม.–2 ม.,ไทยโชต,2 m,700.0,6500.0,บาท/ตร.กม.,Orthorectification แล้ว 910 บาท/ภาพ,3
+รายละเอียดภาพ 60 ซม.–2 ม.,SPOT-6,1.5 m,190.0,230.0,บาท/ตร.กม.,ข้อมูลในคลัง,3
+รายละเอียดภาพ 60 ซม.–2 ม.,SPOT-7,1.5 m,190.0,230.0,บาท/ตร.กม.,ข้อมูลในคลัง,3
+รายละเอียดภาพมากกว่า 2 เมตร,LANDSAT-5,30 m,150.0,,บาท/ภาพ,"Level 1T, 7 bands",4
+รายละเอียดภาพมากกว่า 2 เมตร,LANDSAT-7,30 m,150.0,,บาท/ภาพ,"Level 1T, 8 bands",4
+รายละเอียดภาพมากกว่า 2 เมตร,LANDSAT-8,30 m,150.0,,บาท/ภาพ,"Level 1T, 11 bands",4
+รายละเอียดภาพมากกว่า 2 เมตร,LANDSAT-9,30 m,150.0,,บาท/ภาพ,Level 1T,4
+รายละเอียดภาพมากกว่า 2 เมตร,PLANETSCOPE,3 m,180.0,240.0,บาท/ตร.กม./ปี,Access+Download,4
+ระบบเรดาร์,RADARSAT-2 (C band),Standard 25 m,57600.0,57600.0,บาท/ภาพ,Single Look Complex / Path Image,5
+ระบบเรดาร์,RADARSAT-2 (C band),Spotlight A 1 m,134400.0,134400.0,บาท/ภาพ,Single Look Complex / Path Image,5
+ระบบเรดาร์,RADARSAT-2 (C band),Ultra-Fine 3 m,86400.0,86400.0,บาท/ภาพ,Single Look Complex / Path Image,5
+ระบบเรดาร์,RADARSAT-2 (C band),Wide Ultra-Fine 3 m,124800.0,124800.0,บาท/ภาพ,Single Look Complex / Path Image,5
+ระบบเรดาร์,RADARSAT-2 (C band),Multi-Look Fine 8 m,67200.0,67200.0,บาท/ภาพ,Single Look Complex / Path Image,5
+ระบบเรดาร์,RADARSAT-2 (C band),Wide Multi-Look Fine 8 m,120000.0,120000.0,บาท/ภาพ,Single Look Complex / Path Image,5
+ระบบเรดาร์,RADARSAT-2 (C band),Fine 8 m,57600.0,57600.0,บาท/ภาพ,Single Look Complex / Path Image,5
+ระบบเรดาร์,RADARSAT-2 (C band),Wide 30 m,57600.0,57600.0,บาท/ภาพ,Single Look Complex / Path Image,5
+ระบบเรดาร์,RADARSAT-2 (C band),ScanSAR Narrow 50 m,,57600.0,บาท/ภาพ,Single Look Complex / Path Image,5
+ระบบเรดาร์,RADARSAT-2 (C band),ScanSAR Wide 100 m,,57600.0,บาท/ภาพ,Single Look Complex / Path Image,5
+ระบบเรดาร์,RADARSAT-2 (C band),"Extended High, Low 25 m",57600.0,57600.0,บาท/ภาพ,Single Look Complex / Path Image,5
+ระบบเรดาร์,RADARSAT-2 (C band),Fine Quad-Pol 8 m,86400.0,,บาท/ภาพ,Single Look Complex / Path Image,5
+ระบบเรดาร์,RADARSAT-2 (C band),Wide Fine Quad-Pol 8 m,124800.0,,บาท/ภาพ,Single Look Complex / Path Image,5
